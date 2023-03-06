@@ -1,0 +1,142 @@
+{
+    "investigations": [
+        {
+            "id": 2,
+            "creation_date": "19/01/2023",
+            "icsms_uuid": "b894c021-6da7-45fd-b043-0a77a7e0e143",
+            "title": "Kraftfahrt-Bundesamt"
+        },
+        {
+            "id": 3,
+            "creation_date": "21/12/2022",
+            "icsms_uuid": "d41b9247-6bb5-42ab-be0a-3f35ee88aaba",
+            "title": "Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen"
+        },    
+        {
+            "id": 4,
+            "creation_date": "22/04/2021",
+            "icsms_uuid": "b1b2f7c6-dab9-4f14-a87b-382fca567402",
+            "title": "Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen"
+        },    
+        {
+            "id": 5,
+            "creation_date": "11/11/2020",
+            "icsms_uuid": "4dab8aaa-ba6a-4674-a273-f493b43981c8",
+            "title": "Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen"
+        },    
+        {
+            "id": 7,
+            "creation_date": "23/10/2019",
+            "icsms_uuid": "364595ce-f546-4a32-bd23-51b54f89b58e",
+            "title": "Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen"
+        }
+
+    ],
+    "icsms": [
+        {
+            "id": 2,
+            "icsms_url": "https://webgate.ec.europa.eu/icsms/public/productDetail.jsp?p=b894c021-6da7-45fd-b043-0a77a7e0e143&locale=en",
+            "icsms_uuid": "b894c021-6da7-45fd-b043-0a77a7e0e143",
+            "barcode": "", 
+            "product_name_english": "Charger, Challenger", 
+            "product_name_notifying_country": "Charger, Challenger", 
+            "photo": "",
+            "product_category": "1. Land vehicle or means of land transport\n1.4. Light transport vehicle with four or more wheels\n1.4.1. Passenger car", 
+            "brand": "Dodge", 
+            "type_model": "LD (Charger) LA ...(weitere Infos siehe Suchkriterien (productkeywords))", 
+            "country_of_origin": "United States",
+            "EU_EFTA_country": "",
+            "search_criteria_product_key_words": "Type/Model:\n            LD (Charger) LA (Challenger)\n            serial number / Year of first distribution:\n            individual approval",
+            "description_of_product_and_packaging_dimensions": "Not available",
+            "creation_date": "19/01/2023",
+            "investigation": {
+                "id": 2
+            },
+            "investigations":[2]
+        },
+        {
+            "id": 3,
+            "icsms_url": "https://webgate.ec.europa.eu/icsms/public/productDetail.jsp?p=d41b9247-6bb5-42ab-be0a-3f35ee88aaba&locale=en",
+            "icsms_uuid": "d41b9247-6bb5-42ab-be0a-3f35ee88aaba",
+            "barcode": "", 
+            "product_name_english": "Power Adapter", 
+            "product_name_notifying_country": "Netzteil", 
+            "photo": "http://localhost:3004/d41b9247-6bb5-42ab-be0a-3f35ee88aaba.jpeg",
+            "product_category": "7. Appliance mainly used in household\n7.98. Other specified household appliance\n7.98.98. Other specified household appliance", 
+            "brand": "", 
+            "type_model": "POWER ADAPTOR 20W", 
+            "country_of_origin": "China",
+            "EU_EFTA_country": "",
+            "search_criteria_product_key_words": "automatic battery charger, battery charger, Adaptor, Semik, POWER ADAPTOR 20W",
+            "description_of_product_and_packaging_dimensions": "",
+            "creation_date": "21/12/2022",
+            "investigation": {
+                "id": 3
+            },
+            "investigations":[3]
+        },
+        {
+            "id": 4,
+            "icsms_url": "https://webgate.ec.europa.eu/icsms/public/productDetail.jsp?p=b1b2f7c6-dab9-4f14-a87b-382fca567402&locale=en",
+            "icsms_uuid": "b1b2f7c6-dab9-4f14-a87b-382fca567402",
+            "barcode": "", 
+            "product_name_english": "smartphone sterilizer", 
+            "product_name_notifying_country": "UV Sterilisator", 
+            "photo": "https://webgate.ec.europa.eu/icsms/zkau/view/z_3g2/fYAPv/1eo/1/c/.jpeg",
+            "product_category": "7. Appliance mainly used in household\n7.3. Lighting appliance\n7.3.98. Other specified lighting appliance", 
+            "brand": "", 
+            "type_model": "Smartphone Sanitizer", 
+            "country_of_origin": "",
+            "EU_EFTA_country": "",
+            "search_criteria_product_key_words": "smartphone sterilizer, Smartphone Sanitizer, UV Box, UV sterilizer, Aksu, disinfectant equipment, sterilizer, charger, aroma diffuser, sterilizer for mobile phones",
+            "description_of_product_and_packaging_dimensions": "",
+            "creation_date": "22/04/2021",            
+            "investigation": {
+                "id": 4
+            },
+            "investigations":[4]
+        },
+        {
+            "id": 5,
+            "icsms_url": "https://webgate.ec.europa.eu/icsms/public/productDetail.jsp?p=4dab8aaa-ba6a-4674-a273-f493b43981c8&locale=en",
+            "icsms_uuid": "4dab8aaa-ba6a-4674-a273-f493b43981c8",
+            "barcode": "8719288935042", 
+            "product_name_english": "Qi wireless Car Charger with IR Sensor", 
+            "product_name_notifying_country": "QI-Ladegerät mit IR-Sensor", 
+            "photo": "https://webgate.ec.europa.eu/icsms/zkau/view/z_6g2/c1EP20/p351/1/c/.jpeg",
+            "product_category": "7. Appliance mainly used in household\n7.98. Other specified household appliance\n7.98.98. Other specified household appliance", 
+            "brand": "XSSIVE", 
+            "type_model": "XSS-C17", 
+            "country_of_origin": "China",
+            "EU_EFTA_country": "",
+            "search_criteria_product_key_words": "other radio transmitters, automatic battery charger, battery charger, Adaptor, Qi wireless Car Mount, XSSIVE, XSS-C17, EB 3842-2020, Qi adapter, car transmitter, Mimcom, Qi wireless Car Charger with IR Sensor",
+            "description_of_product_and_packaging_dimensions": "",
+            "creation_date": "11/11/2020",
+            "investigation": {
+                "id": 5
+            },
+            "investigations":[5]
+        },
+        {
+            "id": 7,
+            "icsms_url": "https://webgate.ec.europa.eu/icsms/public/productDetail.jsp?p=364595ce-f546-4a32-bd23-51b54f89b58e&locale=en",
+            "icsms_uuid": "364595ce-f546-4a32-bd23-51b54f89b58e",
+            "barcode": "8719273203088", 
+            "product_name_english": "2xUSB Charger for iPhone 5", 
+            "product_name_notifying_country": "2 x USB Ladegerät für iPhone 5", 
+            "photo": "https://webgate.ec.europa.eu/icsms/zkau/view/z_cg2/j8yP20/q1u1/1/c/.jpeg",
+            "product_category": "\n7. Appliance mainly used in household\n7.98. Other specified household appliance\n7.98.98. Other specified household appliance", 
+            "brand": "MOXOM", 
+            "type_model": "KH-18Y", 
+            "country_of_origin": "China",
+            "EU_EFTA_country": "",
+            "search_criteria_product_key_words": "automatic battery charger, battery charger, Adaptor, usb charger, 2xUSB Charger for iPhone 5,            2xUSB Charger, battery charger for mobile phones, switching power supply, mains unit, charger,            power supply unit, travel charger, MOXOM, KH-18Y, 8682842301621, iPh 5G/S, SKU:NT-20-308,            AC-USB",
+            "description_of_product_and_packaging_dimensions": "",
+            "creation_date": "23/10/2019",
+            "investigation": {
+                "id": 7
+            },
+            "investigations":[7]
+        }
+    ]
+}
