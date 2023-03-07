@@ -7,10 +7,6 @@
         "config": {
           "includeFiles": ["db.json"]
         }
-      },
-      {
-          "src": "public/**",
-          "use": "@vercel/static"
       }
     ],
     "routes": [
@@ -19,8 +15,8 @@
         "dest": "server.js"
       },
       {
-          "src": "/abc/(.+)",
-          "dest": "public/$1"
+        "src": "/public/(.*)",
+        "dest": "/public/$1"
       }
     ]
   }
