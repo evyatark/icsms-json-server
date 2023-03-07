@@ -2,31 +2,31 @@
     "investigations": [
         {
             "id": 2,
-            "creation_date": "19/01/2023",
+            "creation_date": "2023-01-19",
             "icsms_uuid": "b894c021-6da7-45fd-b043-0a77a7e0e143",
             "title": "Kraftfahrt-Bundesamt"
         },
         {
             "id": 3,
-            "creation_date": "21/12/2022",
+            "creation_date": "2022-12-21",
             "icsms_uuid": "d41b9247-6bb5-42ab-be0a-3f35ee88aaba",
             "title": "Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen"
         },    
         {
             "id": 4,
-            "creation_date": "22/04/2021",
+            "creation_date": "2021-04-22",
             "icsms_uuid": "b1b2f7c6-dab9-4f14-a87b-382fca567402",
             "title": "Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen"
         },    
         {
             "id": 5,
-            "creation_date": "11/11/2020",
+            "creation_date": "2020-11-11",
             "icsms_uuid": "4dab8aaa-ba6a-4674-a273-f493b43981c8",
             "title": "Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen"
         },    
         {
             "id": 7,
-            "creation_date": "23/10/2019",
+            "creation_date": "2019-10-23",
             "icsms_uuid": "364595ce-f546-4a32-bd23-51b54f89b58e",
             "title": "Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen"
         }
@@ -48,7 +48,7 @@
             "EU_EFTA_country": "",
             "search_criteria_product_key_words": "Type/Model:\n            LD (Charger) LA (Challenger)\n            serial number / Year of first distribution:\n            individual approval",
             "description_of_product_and_packaging_dimensions": "Not available",
-            "creation_date": "19/01/2023",
+            "creation_date": "2023-01-19",
             "investigation": {
                 "id": 2
             },
@@ -69,7 +69,7 @@
             "EU_EFTA_country": "",
             "search_criteria_product_key_words": "automatic battery charger, battery charger, Adaptor, Semik, POWER ADAPTOR 20W",
             "description_of_product_and_packaging_dimensions": "",
-            "creation_date": "21/12/2022",
+            "creation_date": "2022-12-21",
             "investigation": {
                 "id": 3
             },
@@ -90,7 +90,7 @@
             "EU_EFTA_country": "",
             "search_criteria_product_key_words": "smartphone sterilizer, Smartphone Sanitizer, UV Box, UV sterilizer, Aksu, disinfectant equipment, sterilizer, charger, aroma diffuser, sterilizer for mobile phones",
             "description_of_product_and_packaging_dimensions": "",
-            "creation_date": "22/04/2021",            
+            "creation_date": "2021-04-22",            
             "investigation": {
                 "id": 4
             },
@@ -111,7 +111,7 @@
             "EU_EFTA_country": "",
             "search_criteria_product_key_words": "other radio transmitters, automatic battery charger, battery charger, Adaptor, Qi wireless Car Mount, XSSIVE, XSS-C17, EB 3842-2020, Qi adapter, car transmitter, Mimcom, Qi wireless Car Charger with IR Sensor",
             "description_of_product_and_packaging_dimensions": "",
-            "creation_date": "11/11/2020",
+            "creation_date": "2020-11-11",
             "investigation": {
                 "id": 5
             },
@@ -132,7 +132,7 @@
             "EU_EFTA_country": "",
             "search_criteria_product_key_words": "automatic battery charger, battery charger, Adaptor, usb charger, 2xUSB Charger for iPhone 5,            2xUSB Charger, battery charger for mobile phones, switching power supply, mains unit, charger,            power supply unit, travel charger, MOXOM, KH-18Y, 8682842301621, iPh 5G/S, SKU:NT-20-308,            AC-USB",
             "description_of_product_and_packaging_dimensions": "",
-            "creation_date": "23/10/2019",
+            "creation_date": "2019-10-23",
             "investigation": {
                 "id": 7
             },
