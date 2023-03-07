@@ -37,6 +37,9 @@ http://localhost:8000/icsms/2 retrieves a single row (with id 2)
 ### Vercel
 according to https://javascript.plainenglish.io/how-to-set-up-deploy-fake-rest-api-server-using-json-server-24e26dc1d120
 
+after successful deployment, access:
+https://icsms-json-server.vercel.app/
+https://icsms-json-server.vercel.app/icsms
 
 ## TO DO
 add a public deployment in Vercel so that this data can be used by the public deployed application.
