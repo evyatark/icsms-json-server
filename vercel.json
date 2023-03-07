@@ -19,7 +19,7 @@
         "dest": "server.js"
       },
       {
-          "src": "/(.+)",
+          "src": "/abc/(.+)",
           "dest": "public/$1"
       }
     ]
